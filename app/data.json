@@ -1,0 +1,120 @@
+{
+  "app": {
+    "icon": "/logo.png",
+    "name": "SlapPhone: Funny Sound Effects App",
+    "ageRating": "16+",
+    "developer": "Pinak Faldu",
+    "priceType": "Free · In-App Purchases",
+    "overallRating": 5.0,
+    "totalRatings": 6900,
+    "buttonText": "GET",
+    "liveAppLink": "https://apps.apple.com/us/app/subwise-subscription-tracker/id6754798552"
+  },
+  "short_description": "Slap your phone for funny sound effects, screams & prank reactions",
+  "keywords": [
+    "funny sound effects",
+    "prank app",
+    "soundboard",
+    "meme sounds",
+    "goat scream sound",
+    "funny sounds app",
+    "slap sound",
+    "scream sound",
+    "reaction sounds",
+    "sound effects app",
+    "interactive app",
+    "stress relief app",
+    "weird apps",
+    "funny prank sounds"
+  ],
+  "screenshots": ["/1.png", "/2.png", "/3.png", "/4.png", "/5.png"],
+  "screenshot_metadata": [
+    {
+      "title": "SLAP YOUR PHONE. IT SCREAMS.",
+      "subtitle": "Funny sound effects that react to every hit"
+    },
+    {
+      "title": "REAL IMPACT. REAL REACTIONS.",
+      "subtitle": "Tap or slap for different sound effects"
+    },
+    {
+      "title": "FUNNY SOUNDS & MEME PACKS",
+      "subtitle": "Goat screams, reactions, horror & more"
+    },
+    {
+      "title": "PRANK YOUR FRIENDS",
+      "subtitle": "Turn any moment into chaos"
+    },
+    {
+      "title": "CAN YOU STOP TOUCHING IT?",
+      "subtitle": "Break mode punishes every tap"
+    }
+  ],
+  "feature_graphic": {
+    "headline": "FUNNY SOUND EFFECTS. REAL REACTIONS.",
+    "subtext": "Slap your phone and watch it react"
+  },
+  "description": "Turn your phone into a hilarious sound effects machine.\n\nSlap it. Tap it. It reacts instantly.\nThe harder you hit, the louder and funnier the sound.\n\nSlapPhone is a fun prank app packed with funny sounds, meme reactions, and interactive sound effects that respond to your touch and motion.\n\n---\n\n🔥 KEY FEATURES\n\n• Slap Detection (Motion-Based)\nHit your phone and trigger real-time sound effects using motion sensors\n\n• Funny Sound Effects\nFrom screams and goat sounds to flirty and meme reactions\n\n• Multiple Sound Packs\nIncludes Sexy, Goat, Horror, Rage, Meme and more\n\n• Break Mode (Focus Timer)\nSet a timer and try not to touch your phone\nEvery tap triggers annoying and funny sounds\n\n• Instant Feedback\nUltra fast audio response with haptics for satisfying interaction\n\n---\n\n😂 PERFECT FOR\n\n• Prank apps and funny moments\n• Meme content and reels\n• Stress relief and boredom\n• Friends, parties, and office fun\n\n---\n\n🎧 SOUND CATEGORIES\n\n• Funny sounds & meme reactions\n• Goat screams & animal chaos\n• Horror screams & jump sounds\n• Punch, slap & impact effects\n• Flirty and playful reactions\n\n---\n\nIf you love funny sound apps, prank tools, or weird interactive games, SlapPhone is for you.\n\nDownload now and turn every slap into a reaction.",
+  "content_rating_notes": "Contains suggestive but non-explicit audio, cartoon sounds, and loud effects. Suitable for general audience with mild humor.",
+  "whatsNew": {
+    "version": "5.0.0",
+    "content": "Building and maintaining a font collection on the computer you use for design work is an important part of life as a designer. However, there are a number of ways this process can be optimized—primarily by understanding where font files live, but also by proactively organizing your collection with font management software."
+  },
+  "ratings": {
+    "overall": 4.5,
+    "totalRatings": 6900,
+    "distribution": {
+      "5": 90,
+      "4": 15,
+      "3": 5,
+      "2": 0,
+      "1": 0
+    }
+  },
+  "reviews": [
+    {
+      "title": "Download this one!",
+      "user": "rickNorman",
+      "date": "04/19/2023",
+      "rating": 5,
+      "content": "I've been apart of this app for a while now. I've been able to do a lot of pranks and things with this app. The voices truly sound like the person their supposed to..."
+    },
+    {
+      "title": "this app is a game-changer!",
+      "user": "tscotttfff",
+      "date": "10/16/2023",
+      "rating": 5,
+      "content": "AI for photos and videos are insane - they seriously upped my social media. With all these styles, my posts look top-notch without spending hours editing."
+    },
+    {
+      "title": "This app is seriously fun!",
+      "user": "linechristine8",
+      "date": "11/11/2023",
+      "rating": 5,
+      "content": "It's like a stress-relief zone where I can try out loads of cool styles and effects. Playing around with all the options is super cool, and it's my go-to..."
+    }
+  ],
+  "information": {
+    "seller": "Pinak Faldu",
+    "category": "Entertainment",
+    "size": "63.6 MB",
+    "language": "English",
+    "compatibility": "iOS 14.0+",
+    "ageRating": "12+",
+    "inAppPurchases": true,
+    "pricing": [
+      {
+        "name": "Weekly Subscription",
+        "price": "$0.99"
+      },
+      {
+        "name": "Yearly Subscription",
+        "price": "$20.00"
+      }
+    ]
+  },
+  "monetization": {
+    "model": "Freemium",
+    "details": "Free app with limited sound packs. Full access via subscription: $0.99/week or $20/year."
+  }
+}
