@@ -98,6 +98,19 @@ export default function Home() {
               >
                 {appData.app.buttonText}
               </button>
+              <a
+                href="https://www.producthunt.com/products/slapphone-2?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-slapphone-2"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block mt-3"
+              >
+                <Image
+                  alt="SlapPhone - Slap your phone. It reacts. A weird fun experiment. | Product Hunt"
+                  width={250}
+                  height={54}
+                  src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1122366&theme=light&t=1776059308880"
+                />
+              </a>
             </div>
             <div className="hidden sm:flex mt-2 items-start gap-2 relative">
               <button
